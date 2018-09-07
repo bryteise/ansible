@@ -920,7 +920,7 @@ DISTRIB_DESCRIPTION="CoreOS 976.0.0 (Coeur Rouge)"
         ],
         "input": {
             "/usr/lib/os-release": '''
-NAME="Clear Linux OS for Intel Architecture"
+NAME="Clear Linux OS"
 VERSION=1
 ID=clear-linux-os
 VERSION_ID=18450
